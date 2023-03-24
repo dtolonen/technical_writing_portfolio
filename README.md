@@ -1,2 +1,2 @@
-# technical_writing
+# Technical writing
 Technical writing samples
