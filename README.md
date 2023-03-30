@@ -1,2 +1,2 @@
 # Technical writing
-Technical writing samples
+Technical writing samples - click on Wiki button, above
