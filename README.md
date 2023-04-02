@@ -5,7 +5,7 @@
 
 
 
-I am Dmitry Tolonen, a Finnish and Northern Irish creative with a background in film, animation, live performance, writing and research. Below you can see prepared samples (not complete texts) in both Finnish and English of technical, copy and ux related writing and graphic design. 
+I am Dmitry Tolonen, a Finnish and Northern Irish creative with a background in film, animation, writing and research. Below you can see prepared samples (not complete texts) in both Finnish and English of technical, copy and ux related writing and graphic design. 
 
 <br>
 
