@@ -12,7 +12,7 @@ I am Dmitry Tolonen, a Finnish and Northern Irish creative with a background in 
 You will find a variety of documentation from more introductory functional documentation to shorter task-oriented documentation steps, short and longer video tutorials and infographics. For other work, like translation, illustration and film related work, please visit my <a href="https://www.dmitrytolonen.com" style="_blank">website</a>.
 
 <br>
-Please select a page from the blue links on the right or from the list below.
+Please select a page from the [wiki page](https://github.com/dtolonen/technical_writing_portfolio/wiki) above or from the list below.
 <br><br>
 
 ## Writing Samples
