@@ -13,7 +13,7 @@ You will find a variety of documentation from more introductory functional docum
 
 <br>
 
-Please select a page from the <a href="https://github.com/dtolonen/technical_writing_portfolio/wiki">wiki page</a> or from the list below.
+Please select a sample text from the <a href="https://github.com/dtolonen/technical_writing_portfolio/wiki">wiki page</a> or from the list below.
 
 <br><br>
 
