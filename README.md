@@ -37,7 +37,7 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 
 8. [Video and longer form documentation for screenwriting tool: English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Video-and-longer-form-documentation-for-screenwriting-tool:-English-and-Finnish)
 
-[Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-and-Marketing-Localisation:-Finnish-and-English)
+9. [Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-and-Marketing-Localisation:-Finnish-and-English)
 <br>
 
 
