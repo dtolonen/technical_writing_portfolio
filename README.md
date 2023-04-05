@@ -20,21 +20,24 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 ## Writing Samples
 
 
+
 1. [Infographics examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Infographics-examples)
 
 2. [Creating a Flotato app for DevDovs (MacOS): English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Creating-a-Flotato-app-for-DevDovs-(MacOS):-English--and-Finnish)
 
-3. [Beginners Guide to Notion](https://github.com/dtolonen/technical_writing_portfolio/wiki/Beginners-guide-to-Notion)
+3. [Installing PySceneDetect (Linux, MacOS, Windows)](https://github.com/dtolonen/technical_writing_portfolio/wiki/Installing-PySceneDetect-(Linux,-MacOS,-Windows))
 
-4. [Digital tools for traditional painters training: Krita (macOS guide)](https://github.com/dtolonen/technical_writing_portfolio/wiki/Digital-tools-for-traditional-painters-training:-Krita-(macOS-guide))
+4. [Beginners Guide to Notion](https://github.com/dtolonen/technical_writing_portfolio/wiki/Beginners-guide-to-Notion)
 
-5. [Fountain Syntax for Screenwriters](https://github.com/dtolonen/technical_writing_portfolio/wiki/Fountain-Syntax-for-Screenwriters)
+5. [Digital tools for traditional painters training: Krita (macOS guide)](https://github.com/dtolonen/technical_writing_portfolio/wiki/Digital-tools-for-traditional-painters-training:-Krita-(macOS-guide))
 
-6. [UX UI and How to: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UX-UI-and-How-to:-Croco,-the-friendly-sketching-app-for-iOS)
+6. [Fountain Syntax for Screenwriters](https://github.com/dtolonen/technical_writing_portfolio/wiki/Fountain-Syntax-for-Screenwriters)
 
-7. [Video and longer form documentation for screenwriting tool: English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Video-and-longer-form-documentation-for-screenwriting-tool:-English-and-Finnish)
+7. [UX UI and How to: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UX-UI-and-How-to:-Croco,-the-friendly-sketching-app-for-iOS)
 
-8. [Technical localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-localisation:-Finnish-and-English)
+8. [Video and longer form documentation for screenwriting tool: English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Video-and-longer-form-documentation-for-screenwriting-tool:-English-and-Finnish)
+
+9. [Technical localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-localisation:-Finnish-and-English)
 
 <br>
 
