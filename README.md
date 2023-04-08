@@ -38,7 +38,7 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 8. [Video and longer form documentation for screenwriting tool: English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Video-and-longer-form-documentation-for-screenwriting-tool:-English-and-Finnish)
 
 9. [Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-and-Marketing-Localisation:-Finnish-and-English)
-<br>
+
 
 10. [Oxygen XML Author DITA Examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Oxygen-XML-Author-DITA-Examples)
 <br>
