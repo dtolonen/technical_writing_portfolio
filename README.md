@@ -40,7 +40,8 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 9. [Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-and-Marketing-Localisation:-Finnish-and-English)
 <br>
 
-
+10. [Oxygen XML Author DITA Examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Oxygen-XML-Author-DITA-Examples)
+<br>
 
 
 ## Related Skills
