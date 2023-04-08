@@ -48,9 +48,9 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 
 | **Project Management** | **Writing** | **Markup** | **Design** |
  --- | --- | --- | --- 
-| Brainstorming | Technical | HTML & CSS | UX/UI prototypes |
+| Brainstorming | Technical | HTML & CSS basics | UX/UI prototypes |
 | Development | Copywriting | Github Markdown | Vector & Raster Graphics |
-| Scheduling | Localisation | DITA XML | Infographics & 3D |
+| Scheduling | Localisation | DITA XML basics | Infographics & 3D basics |
 | Quality Control | Screenwriting | Fountain | Video Editing |
 
 <br><br>
