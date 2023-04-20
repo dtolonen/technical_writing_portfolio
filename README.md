@@ -33,7 +33,7 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 
 6. [Fountain Syntax for Screenwriters](https://github.com/dtolonen/technical_writing_portfolio/wiki/Fountain-Syntax-for-Screenwriters)
 
-7. [UX, UI and Video How To: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UX,-UI-and-Video-How-To:-Croco,-the-friendly-sketching-app-for-iOS)
+7. [UI, UX microcopy and Video How To: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UI,-UX-microcopy-and-Video-How-To:-Croco,-the-friendly-sketching-app-for-iOS)
 
 8. [Video and longer form documentation for screenwriting tool: English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Video-and-longer-form-documentation-for-screenwriting-tool:-English-and-Finnish)
 
