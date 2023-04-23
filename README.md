@@ -36,7 +36,6 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 
 
 7. [Oxygen XML Author DITA Examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Oxygen-XML-Author-DITA-Examples)
-<br>
 
 
 8. [Infographics examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Infographics-examples)
