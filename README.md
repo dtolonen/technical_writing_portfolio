@@ -31,8 +31,6 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 
 
 4. [App UX microcopy, social media and website copy: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/App-UX-microcopy,-social-media-and-website-copy:-Croco,-the-friendly-sketching-app-for-iOS)
-<br>
-
 
 5. [Creating a Flotato app for DevDovs (MacOS): English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Creating-a-Flotato-app-for-DevDovs-(MacOS):-English--and-Finnish)
 
