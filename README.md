@@ -34,10 +34,6 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 <br>
 
 
-<br><br>
-
-
-
 5. [Creating a Flotato app for DevDovs (MacOS): English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Creating-a-Flotato-app-for-DevDovs-(MacOS):-English--and-Finnish)
 
 6. [Installing PySceneDetect (Linux, MacOS, Windows)](https://github.com/dtolonen/technical_writing_portfolio/wiki/Installing-PySceneDetect-(Linux,-MacOS,-Windows))
