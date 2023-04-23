@@ -23,24 +23,37 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 
 1. [Infographics examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Infographics-examples)
 
-2. [Creating a Flotato app for DevDovs (MacOS): English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Creating-a-Flotato-app-for-DevDovs-(MacOS):-English--and-Finnish)
 
-3. [Installing PySceneDetect (Linux, MacOS, Windows)](https://github.com/dtolonen/technical_writing_portfolio/wiki/Installing-PySceneDetect-(Linux,-MacOS,-Windows))
-
-4. [Beginners Guide to Notion](https://github.com/dtolonen/technical_writing_portfolio/wiki/Beginners-guide-to-Notion)
-
-5. [Digital tools for traditional painters training: Krita (macOS guide)](https://github.com/dtolonen/technical_writing_portfolio/wiki/Digital-tools-for-traditional-painters-training:-Krita-(macOS-guide))
-
-6. [Fountain Syntax for Screenwriters](https://github.com/dtolonen/technical_writing_portfolio/wiki/Fountain-Syntax-for-Screenwriters)
-
-7. [UI, UX microcopy and Video How To: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UI,-UX-microcopy-and-Video-How-To:-Croco,-the-friendly-sketching-app-for-iOS)
-
-8. [Video and longer form documentation for screenwriting tool: English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Video-and-longer-form-documentation-for-screenwriting-tool:-English-and-Finnish)
-
-9. [Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-and-Marketing-Localisation:-Finnish-and-English)
+2. [Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-and-Marketing-Localisation:-Finnish-and-English)
 
 
-10. [Oxygen XML Author DITA Examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Oxygen-XML-Author-DITA-Examples)
+3. [UI (Figma prototype), Video How To and Task oriented Documentation: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UI-(Figma-prototype),-Video-How-To-and-Task-oriented-Documentation:-Croco,-the-friendly-sketching-app-for-iOS)
+
+
+4. [App UX microcopy, social media and website copy: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/App-UX-microcopy,-social-media-and-website-copy:-Croco,-the-friendly-sketching-app-for-iOS)
+<br>
+
+
+<br><br>
+
+
+
+5. [Creating a Flotato app for DevDovs (MacOS): English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Creating-a-Flotato-app-for-DevDovs-(MacOS):-English--and-Finnish)
+
+6. [Installing PySceneDetect (Linux, MacOS, Windows)](https://github.com/dtolonen/technical_writing_portfolio/wiki/Installing-PySceneDetect-(Linux,-MacOS,-Windows))
+
+7. [Beginners Guide to Notion](https://github.com/dtolonen/technical_writing_portfolio/wiki/Beginners-guide-to-Notion)
+
+8. [Digital tools for traditional painters training: Krita (macOS guide)](https://github.com/dtolonen/technical_writing_portfolio/wiki/Digital-tools-for-traditional-painters-training:-Krita-(macOS-guide))
+
+9. [Fountain Syntax for Screenwriters](https://github.com/dtolonen/technical_writing_portfolio/wiki/Fountain-Syntax-for-Screenwriters)
+
+
+10. [Video and longer form documentation for screenwriting tool: English and Finnish](https://github.com/dtolonen/technical_writing_portfolio/wiki/Video-and-longer-form-documentation-for-screenwriting-tool:-English-and-Finnish)
+
+
+
+11. [Oxygen XML Author DITA Examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Oxygen-XML-Author-DITA-Examples)
 <br>
 
 
