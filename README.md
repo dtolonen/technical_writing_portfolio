@@ -43,11 +43,13 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 
 9. [Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-and-Marketing-Localisation:-Finnish-and-English)
 
+10. [Advertising Copy, Blog Posts and Articles](https://github.com/dtolonen/technical_writing_portfolio/wiki/Advertising-Copy,-Blog-Posts-and-Articles)
 
-10. [UI (Figma prototype), Video How To and Task oriented Documentation: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UI-(Figma-prototype),-Video-How-To-and-Task-oriented-Documentation:-Croco,-the-friendly-sketching-app-for-iOS)
+
+11. [UI (Figma prototype), Video How To and Task oriented Documentation: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UI-(Figma-prototype),-Video-How-To-and-Task-oriented-Documentation:-Croco,-the-friendly-sketching-app-for-iOS)
 
 
-11. [App UX microcopy, social media and website copy: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/App-UX-microcopy,-social-media-and-website-copy:-Croco,-the-friendly-sketching-app-for-iOS)
+12. [App UX microcopy, social media and website copy: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/App-UX-microcopy,-social-media-and-website-copy:-Croco,-the-friendly-sketching-app-for-iOS)
 
 
 
