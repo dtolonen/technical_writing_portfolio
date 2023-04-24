@@ -41,7 +41,7 @@ Please select a sample from the samples <a href="https://github.com/dtolonen/tec
 8. [Infographics examples](https://github.com/dtolonen/technical_writing_portfolio/wiki/Infographics-examples)
 
 
-9. [Blog posts, Articles, Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Blog-posts,-Articles,-Technical-and-Marketing-Localisation:-Finnish-and-English)
+9. [Technical and Marketing Localisation: Finnish and English](https://github.com/dtolonen/technical_writing_portfolio/wiki/Technical-and-Marketing-Localisation:-Finnish-and-English)
 
 
 10. [UI (Figma prototype), Video How To and Task oriented Documentation: Croco, the friendly sketching app for iOS](https://github.com/dtolonen/technical_writing_portfolio/wiki/UI-(Figma-prototype),-Video-How-To-and-Task-oriented-Documentation:-Croco,-the-friendly-sketching-app-for-iOS)
